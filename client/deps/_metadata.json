@@ -1,0 +1,44 @@
+{
+  "hash": "887ea209",
+  "browserHash": "c60f5d26",
+  "optimized": {
+    "react/jsx-runtime": {
+      "src": "../../../../node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "0c6a5d9d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "e9ad5188",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "13583e03",
+      "needsInterop": true
+    },
+    "base64-js": {
+      "src": "../../../../node_modules/base64-js/index.js",
+      "file": "base64-js.js",
+      "fileHash": "d03006aa",
+      "needsInterop": true
+    },
+    "ieee754": {
+      "src": "../../../../node_modules/ieee754/index.js",
+      "file": "ieee754.js",
+      "fileHash": "ba27893d",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-IHAKEAXL": {
+      "file": "chunk-IHAKEAXL.js"
+    },
+    "chunk-OLZF3EOE": {
+      "file": "chunk-OLZF3EOE.js"
+    }
+  }
+}
